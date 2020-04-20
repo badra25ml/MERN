@@ -5,7 +5,7 @@ export const defaultState = {
         friends:[`U2`]
     },{
         id:"U2",
-        name:"C. Eeyo",
+        name:"A. Maiga",
         friends:[]
     }],
     groups:[{
@@ -13,7 +13,7 @@ export const defaultState = {
         id:"G1",
         owner:"U1"
     },{
-        name:"Doing",
+        name:"Working on it",
         id:"G2",
         owner:"U1"
     },{
